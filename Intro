@@ -17,3 +17,24 @@ Ques 2> What is SAP?
         The aim was to develop software solutions for managing customer and business operations relationships.
         SAP is ranked No.1 in the ERP market.
         As of 2010, SAP has more than 140,000 installations worldwide, over 25 industry-specific business solutions, and more than 75,000 customers in 120 countries.
+
+Ques 3> What is SAP NetWeaver?
+        SAP NetWeaver is SAP’s primary integration platform that supports applications such as SAP CRM and SAP ERP. Companies can use this software to integrate business
+        processes and data from different software. It offers the foundation to operate different application landscapes
+        Developers and administrators use SAP NetWeaver to handle different SAP systems.
+        
+        SAP NetWeaver was developed by TopTier Software in 1997. In 2001, this company was acquired by SAP. Later in 2004, SAP NetWeaver was launched by SAP as NetWeaver
+        2004. NetWeaver 7.0 was made launched on October 24, 2005. The SAP NetWeaver7.5 SP 19 is the latest version.
+        
+Ques 4> What are the different SAP products?
+        SAP R/3 – It succeeds SAP R/2 and is a market leader in ERP. R/3 stands for three-tier architecture, i.e., Presentation, Logic, and Data tier. It has many modules
+        like SD, FI, HR, etc. which encompass almost all enterprise departments.
+        mySAP – It is a suite of SAP products which apart from SAP R/3 also includes SRM, PLM, CRM, SCM
+        
+Ques 5> What are the different types of ERP?
+        SAP
+        Baan
+        JD Edwards (now acquired by Oracle)
+        Siebel
+        Peoplesoft (now acquired by Oracle)
+        Microsoft Dynamics
