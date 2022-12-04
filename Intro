@@ -55,3 +55,8 @@ Ques 6> 6) List the Different Modules in SAP.
         Plant Maintenance (PM)
         Project System (PS)
         Human Resources (HR)
+
+Ques 8> What is Metadata, Master data and Transaction data
+        Meta Data: Data about Data
+        Master Data: Data that seldomly change.
+        Transaction Data:Data which changes frequently
